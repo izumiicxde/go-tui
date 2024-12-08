@@ -2,4 +2,4 @@
 
 ## Inventory system.
 
-- just a simple project to learn about TUI in golang
+> NOTE: just a simple project to learn about TUI in golang
